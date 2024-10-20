@@ -1,1 +1,1 @@
-this is chapter 2. i like hotdogs. 
+this is chapter 2. i like hotdogs. This is a bug fix 
